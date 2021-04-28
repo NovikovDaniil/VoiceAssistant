@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">VoiceAssistant</string>
+
+    <string name="thinking_about_it">Understand. Thinking about it…</string>
+    <string name="question_text">Ask a question</string>
+    <string name="sendText">Send</string>
+
+    <string name="input_whatdayistoday">what day is today</string>
+    <string name="input_whattimeisitnow">what time is it now</string>
+    <string name="input_whatdayoftheweekisit">what day of the week is it</string>
+    <string name="input_howmanydaysuntil">how many days until</string>
+
+    <string name="input_hello">hello</string>
+    <string name="output_hello">Hello</string>
+    <string name="input_howareyou">how are you</string>
+    <string name="output_howareyou">Not bad</string>
+    <string name="input_whatareyoudoing">what are you doing</string>
+    <string name="output_whatareyoudoing">Asking questions</string>
+    <string name="output_howmanydaysuntil">Days left: </string>
+    <string name="output_howmanydaysuntil_today">This date is today</string>
+    <string name="output_howmanydaysuntil_passed">This date has already passed</string>
+    <string name="output_howmanydaysuntil_incorrect">This date is incorrect</string>
+    <string name="output_unknown">I don\'t understand this message</string>
+
+    <string name="avatar_image">avatar_image</string>
+
+    <string name="assistant_text">Message</string>
+    <string name="assistant_name">Assistant</string>
+    <string name="assistant_date">Date</string>
+
+    <string name="user_text">Message</string>
+    <string name="user_name">User</string>
+    <string name="user_date">Date</string>
+
+    <string name="input_whatistheweather">what is the weather in</string>
+    <string name="output_whatistheweather">Now it\'s about %d degree%s and %s</string>
+    <string name="output_whatistheweather_incorrect">Couldn\'t determine the weather</string>
+
+    <string name="input_converttostring">convert to string number</string>
+    <string name="output_converttostring_incorrect">Invalid number specified</string>
+
+    <string name="input_whataholiday">what a holiday</string>
+    <string name="output_whataholiday_incorrect">Couldn\'t determine the holiday</string>
+    <string name="output_whataholiday_no">No holidays</string>
+
+    <string name="day_settings">Day theme</string>
+    <string name="night_settings">Night theme</string>
+
+    <string name="today">today</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="yesterday">yesterday</string>
+
+    <string name="input_moviesinthetop">which movies are in the top</string>
+
+    <string name="input_citygeolocation">show city coordinates</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="output_city_incorrect">Could not determine coordinates for the specified city</string>
+
+</resources>

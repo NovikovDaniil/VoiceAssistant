@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Голосовой помощник</string>
+
+    <string name="thinking_about_it">Понял. Думаю над этим ...</string>
+    <string name="question_text">Задай вопрос</string>
+    <string name="sendText">Отправить</string>
+
+    <string name="input_hello">привет</string>
+    <string name="output_hello">Привет</string>
+    <string name="input_howareyou">как дела</string>
+    <string name="input_whatdayistoday">какой сегодня день</string>
+    <string name="input_whattimeisitnow">который час</string>
+    <string name="input_whatdayoftheweekisit">какой сейчас день недели</string>
+    <string name="input_howmanydaysuntil">сколько дней до</string>
+
+    <string name="output_howareyou">Не плохо</string>
+    <string name="input_whatareyoudoing">чем занимаешься</string>
+    <string name="output_whatareyoudoing">Отвечаю на вопросы</string>
+    <string name="output_howmanydaysuntil">Осталось дней: </string>
+    <string name="output_howmanydaysuntil_today">Эта дата сегодня</string>
+    <string name="output_howmanydaysuntil_passed">Указанная дата уже прошла</string>
+    <string name="output_howmanydaysuntil_incorrect">Указанная дата некорректна</string>
+    <string name="output_unknown">Не могу ответить на это сообщение</string>
+
+    <string name="avatar_image">avatar_image</string>
+
+    <string name="assistant_text">Сообщение</string>
+    <string name="assistant_name">Ассистент</string>
+    <string name="assistant_date">Время</string>
+
+    <string name="user_text">Сообщение</string>
+    <string name="user_name">Пользователь</string>
+    <string name="user_date">Время</string>
+
+    <string name="input_whatistheweather">какая погода в городе</string>
+    <string name="output_whatistheweather">Сейчас где-то %d градус%s и %s</string>
+    <string name="output_whatistheweather_incorrect">Не смог определить погоду</string>
+
+    <string name="input_converttostring">переведи в строку число</string>
+    <string name="output_converttostring_incorrect">Задано неправильное число</string>
+
+    <string name="input_whataholiday">какой праздник</string>
+    <string name="output_whataholiday_incorrect">Не смог определить праздник</string>
+    <string name="output_whataholiday_no">Нет праздников</string>
+
+    <string name="day_settings">Дневная тема</string>
+    <string name="night_settings">Ночная тема</string>
+
+    <string name="today">сегодня</string>
+    <string name="tomorrow">завтра</string>
+    <string name="yesterday">вчера</string>
+
+    <string name="input_moviesinthetop">какие фильмы в топе</string>
+
+    <string name="input_citygeolocation">покажи координаты города</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+    <string name="output_city_incorrect">Для заданного города не удалось определить координаты</string>
+
+
+</resources>
